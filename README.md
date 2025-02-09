@@ -1,6 +1,6 @@
 ## Hi there / Salut! 👋🏽
 
-I am a university student passionate about the IT and programming world. I used to code discord bots and have experience with JavaScript.
+I am a student passionate about the IT and programming world. I used to code discord bots and have experience with JavaScript.
 
 - 🔭 I’m currently working on no big projects at the moment
 - 🌱 I’m currently studying Accounting and learning French
