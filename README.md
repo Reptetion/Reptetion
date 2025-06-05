@@ -1,8 +1,8 @@
 ## Hi there / Salut! 👋🏽
 
-I am a student passionate about the IT and programming world. I used to code discord bots and have experience with JavaScript.
+Just a ordinary guy interesting in programming and technology :)
 
-- 🔭 I’m currently working on no big projects at the moment
-- 🌱 I’m currently studying Accounting and learning French
+- 🔭 Working on building a website
+- 🌱 Currently studying Accounting and learning French
 - 📫 How to reach me: You can contact me on Discord @ <i>reptetion</i>
 
