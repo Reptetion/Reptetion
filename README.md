@@ -1,7 +1,16 @@
-<h1>Hi / Salut! 👋🏽</h1>
-<h3>Hobbyist Developer | Accounting @ Mount Royal University</h3>
+# 👋 Hi there!
 
-Just a random guy interested in programming and technology :)
+- 📚 Accounting student @ Mount Royal University
+- 💻 Hobbyist Developer into tech & digital design
 
-- 🔭 Working on ???
-- 📫 Reach me at **reptetion04@gmail.com** or Discord @<i>reptetion</i>
+---
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Reptetion&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reptetion&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
