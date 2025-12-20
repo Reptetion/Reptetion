@@ -1,7 +1,7 @@
 # 👋🏾 Hi / Salut!
 
 - 📚 Accounting student @ Mount Royal University
-- 💻 Hobbyist Developer into tech & digital design
+- 👨‍💻 Hobbyist Developer into tech & digital design
 - 📫 Contact me @ reptetion04@gmail.com or Discord: reptetion
 
 ---
