@@ -1,4 +1,4 @@
-# 👋 Hi / Salut!
+# 👋🏾 Hi / Salut!
 
 - 📚 Accounting student @ Mount Royal University
 - 💻 Hobbyist Developer into tech & digital design
