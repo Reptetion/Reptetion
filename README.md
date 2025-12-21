@@ -2,7 +2,7 @@
 
 - 📚 Accounting student @ Mount Royal University
 - 👨‍💻 Hobbyist Developer into tech & digital design
-- 📫 Contact me @ reptetion04@gmail.com or Discord: reptetion
+- 📫 Contact me @ reptetion04@gmail.com
 
 ---
 <table>
