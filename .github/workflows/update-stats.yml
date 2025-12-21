@@ -27,6 +27,3 @@ jobs:
           git add README.md
           git commit -m "[AUTO]: Refresh GitHub stats" || echo "No changes"
           git push
-          git add README.md
-          git commit -m "[AUTO]: Refresh GitHub stats" || echo "No changes"
-          git push
