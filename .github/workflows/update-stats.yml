@@ -13,10 +13,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Commit and push README
+      - name: Generate random number
+        run: echo "RANDOM_NUMBER=$RANDOM" >> $GITHUB_ENV
+
+      - name: Update README cache-buster
+        run: |
+          sed -i "s/&r=[0-9]\+/&r=${RANDOM_NUMBER}/g" README.md
+
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "[AUTO]: Refresh GitHub stats" || echo "No changes"
+          git push
           git add README.md
           git commit -m "[AUTO]: Refresh GitHub stats" || echo "No changes"
           git push
