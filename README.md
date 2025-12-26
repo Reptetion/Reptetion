@@ -1,17 +1,18 @@
 # 👋🏾 Hi / Salut!
 
 - 📚 Accounting student @ Mount Royal University
-- 👨‍💻 Hobbyist Developer into tech & digital design
+- 👨‍💻 Independent Developer into tech & digital design
 - 📫 Contact me @ reptetion04@gmail.com
 
 ---
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Reptetion&show_icons=true&theme=react&hide=issues&cache_seconds=0&r=0r=11715r=8060r=10837r=14627r=3245r=25082r=11693"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Reptetion&show_icons=true&theme=react&hide=issues" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reptetion&layout=compact&theme=react&cache_seconds=0&r=0r=11715r=8060r=10837r=14627r=3245r=25082r=11693"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reptetion&layout=compact&theme=react" />
     </td>
   </tr>
 </table>
+
