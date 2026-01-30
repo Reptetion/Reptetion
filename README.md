@@ -8,9 +8,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Reptetion&show_icons=true&theme=react&hide=issues" />
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reptetion&layout=compact&theme=react" />
     </td>
   </tr>
