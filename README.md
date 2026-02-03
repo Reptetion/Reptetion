@@ -1,10 +1,4 @@
-# 👋🏾 Hi / Salut!
-
-- 📚 Accounting student @ Mount Royal University
-- 👨‍💻 Independent Developer into tech & digital design
-- 📫 Contact me @ reptetion04@gmail.com
-
----
+# 👋🏾 hi / salut!
 <table>
   <tr>
     <td>
@@ -12,4 +6,3 @@
     </td>
   </tr>
 </table>
-
