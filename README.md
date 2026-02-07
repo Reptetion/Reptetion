@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reptetion&layout=compact&theme=react" />
+      <img src="https://github-readme-stats-reptetions-projects.vercel.app/api/top-langs/?username=Reptetion&layout=compact&theme=react"/>
     </td>
   </tr>
 </table>
